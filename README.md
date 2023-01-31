@@ -12,9 +12,9 @@ My name is Mac. I am an M.Sc. in Computer Science, majoring in Artificial Intell
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luudinhmac&repo=QuickDraw&theme=radical" />
 </a>    
-<a href="https://github.com/luudinhmac/ASCII-generator/">
+<a href="https://github.com/luudinhmac/websitegiangbaichogiaovien_java/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luudinhmac&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luudinhmac&repo=websitegiangbaichogiaovien_java&theme=merko" />
 </a>
 
 <a href="https://github.com/luudinhmac/Super-mario-bros-A3C-pytorch/">
