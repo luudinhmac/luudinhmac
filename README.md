@@ -21,15 +21,6 @@ My name is Mac. Reinforcement Learning.<br>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luudinhmac&repo=Openvpn&theme=gruvbox" />
 </a>    
-<a href="https://github.com/luudinhmac/get-highest-vote-question-on-stackoverflow/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luudinhmac&repo=get-highest-vote-question-on-stackoverflow &theme=dark" />
-</a>
-
-<a href="https://github.com/luudinhmac/get-highest-vote-question-on-stackoverflow/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luudinhmac&repo=get-highest-vote-question-on-stackoverflow &theme=onedark" />
-</a>    
 
 <a href="https://github.com/luudinhmac/get-highest-vote-question-on-stackoverflow/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
