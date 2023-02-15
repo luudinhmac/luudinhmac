@@ -26,9 +26,9 @@ My name is Mac. Reinforcement Learning.<br>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luudinhmac&repo=get-highest-vote-question-on-stackoverflow &theme=dark" />
 </a>
 
-<a href="https://github.com/luudinhmac/Flappy-bird-deep-Q-learning-pytorch/">
+<a href="https://github.com/luudinhmac/get-highest-vote-question-on-stackoverflow/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luudinhmac&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luudinhmac&repo=get-highest-vote-question-on-stackoverflow &theme=onedark" />
 </a>    
 <a href="https://github.com/luudinhmac/Tetris-deep-Q-learning-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
