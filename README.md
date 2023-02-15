@@ -35,9 +35,9 @@ My name is Mac. Reinforcement Learning.<br>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luudinhmac&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
 </a>
 
-<a href="https://github.com/luudinhmac/AirGesture/">
+<a href="https://github.com/luudinhmac/github-action-jenkins/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luudinhmac&repo=AirGesture&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luudinhmac&repo=github-action-jenkins&theme=synthwave" />
 </a>    
 <a href="https://github.com/luudinhmac/Yolo-v2-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
